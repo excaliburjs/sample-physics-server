@@ -1,0 +1,23 @@
+{
+  "name": "sample-physics-server",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel client/index.html",
+    "build": "parcel build client/index.html",
+    "server": "ts-node server/main.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "excalibur": "0.28.1",
+    "ws": "8.13.0"
+  },
+  "devDependencies": {
+    "@types/ws": "8.5.5",
+    "htmlnano": "2.0.3",
+    "parcel": "2.9.3",
+    "ts-node": "10.9.1",
+    "typescript": "5.2.2"
+  }
+}
