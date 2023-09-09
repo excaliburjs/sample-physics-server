@@ -2,7 +2,7 @@
 
 Example of using a node server to run the Excalibur physics simulation. Still a work in progress!
 
-⚠️Currently this only works off a branch of excalibur https://github.com/excaliburjs/Excalibur/tree/bugfix/run-excalibur-in-node
+⚠️Currently this only works off a branch of excalibur using `npm link` https://github.com/excaliburjs/Excalibur/tree/bugfix/run-excalibur-in-node
 
 ![physics simulation](./physics.gif)
 
